@@ -1,10 +1,14 @@
 baseURL = "http://trusting-payne-8469ea.netlify.com/"
 languageCode = "en-us"
 title = "Peter Herring"
-theme = "hyde-hyde"
-[params.social]
-  facebook = "petehktrainer1"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Facebook", URL = "https://www.facebook.com/petehktrainer1/"},
+  ]
+
 [params]
   description = "Just a trainer"
-  themeColor = "theme-base-08"
-  layoutReverse = false
+  themeColor = "theme-base-09"
+  layoutReverse = true
