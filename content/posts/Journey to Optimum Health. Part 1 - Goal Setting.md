@@ -1,4 +1,10 @@
-# Journey to Optimum Health. Part 1 - Goal Setting.
+---
+title: Journey to Optimum Health. Part 1 - Goal Setting.
+
+ date: 2019-12-29T12:10:39+10:00 
+
+draft: false 
+---
 
 Welcome to the first part of my first ever series! If you're unsure that this is for you, fear not because regardless of whether you're a beginner or an advanced trainer, you're either going to learn something new, or jog your memory about something you've been overlooking. 
 
