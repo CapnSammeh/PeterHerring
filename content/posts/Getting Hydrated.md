@@ -4,7 +4,7 @@ date: 2019-12-29T10:47:39+10:00
 draft: false
 ---
 
-Part 2 is here! If you're new to this series you might want to consider checking out [Part 1](https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/)
+Part 2 is here! If you're new to this series you might want to consider checking out [Part 1](https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/)!
 
 Water, water, water! The amount of people I meet who don't know how much water they should be drinking is outstanding! 
 
@@ -20,5 +20,7 @@ Okay, I mentioned earlier about varying circumstances. If you work inside, in a 
 
 Caffeine is something else that you need to be mindful of when looking to keep yourself hydrated. As it's a diurtic, it will mess with your hydration levels. A rule I use is if you went and bought a Medium flat white at the shops, you should drink an extra litre of water to make sure you stay on top of it. 
 
-
+Keep an eye out for Part 3 where I'll discuss **WHY** we need to make sure we stay hydrated. 
+Until then,
+Pete.
 
