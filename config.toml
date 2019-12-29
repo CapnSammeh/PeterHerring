@@ -10,6 +10,6 @@ googleAnalytics = "UA-155141808-1"
   ]
 
 [params]
-  description = "Just a trainer"
+  description = "More than just a trainer"
   themeColor = "theme-base-09"
   layoutReverse = true
