@@ -2,6 +2,7 @@ baseURL = "https://peterherring.netlify.com/"
 languageCode = "en-us"
 title = "Peter Herring"
 theme = "hyde"
+googleAnalytics = "UA-155141808-1"
 
 [Menus]
   main = [
