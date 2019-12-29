@@ -21,6 +21,8 @@ Okay, I mentioned earlier about varying circumstances. If you work inside, in a 
 Caffeine is something else that you need to be mindful of when looking to keep yourself hydrated. As it's a diurtic, it will mess with your hydration levels. A rule I use is if you went and bought a Medium flat white at the shops, you should drink an extra litre of water to make sure you stay on top of it. 
 
 Keep an eye out for Part 3 where I'll discuss **WHY** we need to make sure we stay hydrated. 
-Until then,
+
+Get those water totals up and you'll hear from me soon,
+
 Pete.
 
