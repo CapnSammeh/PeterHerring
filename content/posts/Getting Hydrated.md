@@ -4,7 +4,7 @@ date: 2019-12-29T10:47:39+10:00
 draft: false
 ---
 
-Part 2 is here! If you're new to this series you might want to consider checking out (https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/ "Part One")
+Part 2 is here! If you're new to this series you might want to consider checking out [https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/ "Part One"]
 
 Water, water, water! The amount of people I meet who don't know how much water they should be drinking is outstanding! 
 
