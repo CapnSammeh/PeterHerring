@@ -13,6 +13,7 @@ To start this process, we began before we even think about nutrition or exercisi
 But why are goals so important? Because without goals we're just wondering around blindly hoping for the best! You may be thinking "yeah yeah, whatever, goals are easy", but what I'm going to show you is how to set goals that will lead you to success!
 
 The best layout for setting goals is to follow the S.M.A.R.T principle. If you don’t know what this is, it looks like this:
+
 **S**pecific 
 
 **M**easurable
