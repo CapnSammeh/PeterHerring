@@ -16,9 +16,9 @@ Now, if you're currently drinking 0 litres of water or anything below the minimu
 
 
 
-Okay, I mentioned earlier about varying circumstances. If you work inside, in a call environment and don't sweat at all - maintain that minimum amount, you're in the clear! But if you work outside, in the heat all day - you may want to consider doubling that average!
+Okay, I mentioned earlier about varying circumstances. If you work inside, in a cool environment and don't sweat at all - maintain that minimum amount, you're in the clear! But if you work outside, in the heat all day - you may want to consider doubling that average!
 
-Caffeine is something else that you need to be mindful of when looking to keep yourself hydrated. As it's a diurtic, it will mess with your hydration levels. A rule I use is if you went and bought a Medium flat white at the shops, you should drink an extra litre of water to make sure you stay on top of it. 
+Caffeine is something else that you need to be mindful of when looking to keep yourself hydrated. As it's a diurtic, it will mess with your hydration levels. A general rule of thumb that I go by is your regular flat white = an extra litre of water that day!
 
 Keep an eye out for Part 3 where I'll discuss **WHY** we need to make sure we stay hydrated. 
 
