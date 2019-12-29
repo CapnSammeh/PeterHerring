@@ -1,5 +1,5 @@
 ---
-title: Journey to Optimum Health. Part 2 - Getiing Hydrated. 
+title: Journey to Optimum Health. Part 2 - Getting Hydrated. 
 date: 2019-12-29T10:47:39+10:00
 draft: false
 ---
