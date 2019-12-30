@@ -1,6 +1,6 @@
 ---
 title: Journey to Optimum Health. Part 1 - Goal Setting.
-date: 2019-12-30T12:08:00:00+10:00 
+date: 2019-12-30T08:00:00+10:00 
 draft: false
 ---
 
