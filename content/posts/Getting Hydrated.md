@@ -6,7 +6,7 @@ draft: false
 
 Part 2 is here! If you're new to this series you might want to consider checking out [Part 1](https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/)!
 
-Water, water, water! The amount of people I meet who don't know how much water they should be drinking is outstanding! 
+Water, water, water! The amount of people I meet who don't know how much water they should be drinking is unbelievable! 
 
 There is no magic number of how much water you should be drinking because everyone is different and we all have varying circumstances (we'll get into that later) which change how much we need. 
 
@@ -16,7 +16,9 @@ Now, if you're currently drinking 0 litres of water or anything below the minimu
 
 
 
-Okay, I mentioned earlier about varying circumstances. If you work inside, in a cool environment and don't sweat at all - maintain that minimum amount, you're in the clear! But if you work outside, in the heat all day - you may want to consider doubling that average!
+Okay, I mentioned earlier about varying circumstances. If you work inside, in a cool environment and don't sweat a lot - maintain that minimum amount, you're in the clear! But if you work outside, in the heat all day - you may want to consider doubling that average!
+
+If you're exercising keep in mind that you need to stay hydrated while you do it - but the water that you drink during doesn't go towards your daily water goal.
 
 Caffeine is something else that you need to be mindful of when looking to keep yourself hydrated. As it's a diurtic, it will mess with your hydration levels. A general rule of thumb that I go by is your regular flat white = an extra litre of water that day!
 
