@@ -1,6 +1,6 @@
 ---
 title: Journey to Optimum Health. Part 2 - Getting Hydrated. 
-date: 2020-01-02T08:00:00+10:00
+date: 2020-01-02T08:01:01+10:00
 draft: false
 ---
 
