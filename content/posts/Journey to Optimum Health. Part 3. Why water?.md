@@ -1,3 +1,8 @@
+---
+title: Journey to Optimum Health. Part 2 - Getting Hydrated. 
+date: 2020-01-08T08:01:01+10:00
+draft: false
+---
 Water, water, water! The most important thing to human survival. We've talked about how much water we should be drinking, and hopefully you're all hitting your goals or moving towards them!
 
 
