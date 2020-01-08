@@ -11,7 +11,7 @@ Water, water, water! The most important thing to human survival. We've talked ab
 
 
 
-For basic human function water is crucial for maintaining the function of every system in our bodies, including our heart, brain and muscles to name a few. Fluids in our body carry nutrients to our cells, flush bacteria and help out our digestive system. Being hydrated will also up us reduce the amount of inflammation that our bodies hold. 
+For basic human function water is crucial for maintaining the function of every system in our bodies, including our heart, brain and muscles to name a few. Fluids in our body carry nutrients to our cells, flush bacteria and help out our digestive system. Being hydrated will also help us reduce the amount of inflammation that our bodies hold. 
 
 While you're training, you put your body under enormous amounts of stress. We stress our bodies systems, muscular, nervous, immune to name a few. When these systems are under stress our body is susceptible to numerous diseases and harmful bacterias. By making sure we stay hydrated we're adding an extra layer of defence against these diseases/bacteria to help out those systems.
 
