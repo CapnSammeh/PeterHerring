@@ -6,7 +6,7 @@ draft: true
 
 Welcome back! If you've been following along you'll know all about **goal setting and hydration**! If this is your first time and you want to catch up on what we've discussed so far click here to go directly to [Part 1](https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/)!
 
-Today is all about rest and recovery - the second most imoprtant aspect (coming in behind water) when it comes to training and reaching your healthiest version of you. Even though it is so important, R&R is quite often overlooked as not needed but that couldn't be further from the truth! Being a two pronged aspect, lets break it down into two parts. 
+Today is all about rest and recovery - the second most important aspect (coming in behind water) when it comes to training and reaching your healthiest version of you. Even though it is so important, R&R is quite often overlooked as not needed but that couldn't be further from the truth! Being a two pronged aspect, lets break it down into two parts. 
 
 
 
@@ -22,7 +22,7 @@ A. Obviously... But what does our body actually DO while we sleep?
 
 
 
-When we sleep our body goes through a lot of repair. The hormonal, muscular and nervous systems are repaired; as well as our organs. Chemicals start to circular within us that strengthens the immune system. 
+While we sleep our body goes through a lot of repair. The hormonal, muscular and nervous systems are repaired; as well as our organs. Chemicals start to circulate within us that strengthen the immune system. 
 
 When we train, especially at the start, all these systems within the body are under immense stress! One of the best features we have as humans is that we adapt to stress to prolong our lives - imagine if we never had the chance to repair all the damage done to our bodies from stress?
 
@@ -40,13 +40,15 @@ Recovery is a complicated topic. On one hand it's as basic as it sounds - on the
 
 Ultimately, recovery comes down to being able to listen to our bodies and understand what it's telling you. For example, if my legs are sore, I need to work through my muscles to figure out what exactly is sore, and once isolated, what kind of sore is it? Is it just muscular soreness from extra use? Is it a sharp, stabbing pain that would indicate something worse? 
 
+Keeping track of how your body feels and reacts to your training is a great way to start understanding it better. Grab a diary or notebook and keep a quick log so you can reflect and pick up on any patterns!
+
 Being able to understand the signals the body sends to the brain is one of the most important skills we can work on as people. 
 
 
 
 Once you've got that under control, we can work on assisting the body to repair ourselves from the inside out. 
 
-To start with, **food** is right up there. Consuming the right fuel will provide the body with the nutrients and resources to start repairing (we'll get into food in the upcoming posts). Next is **foam rolling** and **stretching** (static and dynamic). As a guide, I recommend to every person I see that they should be doing a minimum of 20minutes rolling and stretching. The ideal time to do this is right before bed - every single day! Of course once again this is really individualised and if you suffer from chronic aches/pains don't hesitate to reach out for further help! 
+To start with, **food** is right up there. Consuming the right fuel will provide the body with the nutrients and resources to start repairing (we'll get into food in the upcoming posts). Next is **foam rolling** and **stretching** (static and dynamic). As a guide, I recommend to every person I see that they should be doing a minimum of 20minutes rolling and stretching. The ideal time to do this is right before bed - every single day! Of course once again this is really personalised and if you suffer from chronic aches/pains don't hesitate to reach out for further advice! 
 
 By stretching we relieve the tension that builds in our muscles throughout the course of the day. If you sit/lay down, run through your body in your mind. As you reach each part of the body, attempt to relax that area. Doing this shoud enable you to be able to pinpoint some of the most tense areas you have. Once you know where you're tense - **Stretch**!
 
