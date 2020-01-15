@@ -1,7 +1,7 @@
 ---
 title: Journey to Optimum Health. Part 4 - Take a load off!
 date: 2020-01-15T08:01:01+10:00
-draft: true
+draft: false
 ---
 
 Welcome back! If you've been following along you'll know all about **goal setting and hydration**! If this is your first time and you want to catch up on what we've discussed so far click here to go directly to [Part 1](https://peterherring.netlify.com/posts/journey-to-optimum-health.-part-1-goal-setting/)!
