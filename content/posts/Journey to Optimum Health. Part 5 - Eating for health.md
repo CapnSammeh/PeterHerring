@@ -35,7 +35,7 @@ There are so many ways that we can continue to improve what we eat. Like getting
 
 
 
-In summary, what we eat is a choice. In today's society you won’t find yourself near a fast food resteraunt while at risk of starving to death!Make the right choices. Skip a meal rather than eat sh*t. Read the labels of stuff you buy and don’t be afraid to ask your vendors what process their foods go through before reaching you! 
+In summary, what we eat is a choice. In today's society you won’t find yourself near a fast food restaurant while at risk of starving to death!Make the right choices. Skip a meal rather than eat sh*t. Read the labels of stuff you buy and don’t be afraid to ask your vendors what process their foods go through before reaching you! 
 
 
 
