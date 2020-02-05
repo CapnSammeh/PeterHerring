@@ -22,3 +22,10 @@ When we start training it doesn't matter if it's at home, at a park or in the gy
 You should seek out professional help when starting out. There are so many random, blanket workouts floating around on the internet/social media that it is **SUPER** important to make sure what you're doing is going to aggravate anything and that you're performing the exercises correctly to not cause any injuries. 
 
 Just like food, what you do during training is a very personal matter. Everything discussed above does not take into consideration any individual circumstances.
+
+
+Thanks for following along for this Journey! I hope I've been able to help a few people along the way. If you, or anyone you know wants some more info, send me a message on Facebook!
+
+Thanks,
+
+Pete 
