@@ -1,3 +1,10 @@
+---
+title: Journey to Optimum Health. Part 5 - Eating for Health!
+date: 2020-02-02T08:01:01+10:00
+draft: false
+---
+
+
 Welcome back to the series! Today's post is going to be the last one from the series but not the last post so stay tuned! 
 
 The topic I'll be talking about today is, of course, going to be training! 
