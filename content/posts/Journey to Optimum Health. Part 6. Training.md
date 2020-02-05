@@ -1,5 +1,5 @@
 ---
-title: Journey to Optimum Health. Part 5 - Eating for Health!
+title: Journey to Optimum Health. Part 6 - Training Day
 date: 2020-02-02T08:01:01+10:00
 draft: false
 ---
